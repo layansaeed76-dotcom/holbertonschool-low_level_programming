@@ -1,11 +1,10 @@
-cat > 6-abs.c <<'EOF'
 #include "main.h"
 
 /**
  * _abs - computes the absolute value of an integer
- * @n: number to check
+ * @n: integer to check
  *
- * Return: absolute value of n
+ * Return: the absolute value of n
  */
 int _abs(int n)
 {
@@ -14,4 +13,3 @@ int _abs(int n)
 
 	return (n);
 }
-EOF
