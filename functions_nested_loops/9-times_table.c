@@ -1,4 +1,3 @@
-cat > 9-times_table.c <<'EOF'
 #include "main.h"
 
 /**
@@ -31,4 +30,3 @@ void times_table(void)
 		_putchar('\n');
 	}
 }
-
