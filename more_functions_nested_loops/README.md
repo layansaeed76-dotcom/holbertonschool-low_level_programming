@@ -8,3 +8,4 @@ This directory contains C programs about functions and nested loops.
 - `1-isdigit.c`: function that checks for a digit (0 through 9).
 - `main.h`: header file with function prototypes.
 - `2-mul.c`: function that multiplies two integers.
+- `3-print_numbers.c`: function that prints the numbers from 0 to 9.
