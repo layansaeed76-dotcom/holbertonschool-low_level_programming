@@ -1,12 +1,6 @@
-## Run 1
 Iterations: 100000000
-Execution time: 0.098593 seconds
-
-## Run 2
+Execution time: 0.091282 seconds
 Iterations: 100000000
-Execution time: 0.106290 seconds
-
-## Run 3
+Execution time: 0.135127 seconds
 Iterations: 100000000
-Execution time: 0.095225 seconds
-
+Execution time: 0.116827 seconds
